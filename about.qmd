@@ -1,0 +1,19 @@
+---
+title: "Sobre este blog"
+image: ltaa.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/jmsallan
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jmsallan/
+    - icon: github
+      text: Github
+      href: https://github.com/jmsallan
+
+---
+
+Blog de música de José María Sallán. Iré publicando cada semana mis impresiones sobre uno de mis CDs de música.

@@ -1,0 +1,20 @@
+---
+title: "collections"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+Este es el blog de música de José María Sallán. Iré publicando cada semana (aproximadamente) mis impresiones sobre uno de mis CDs.
+
+Tengo varios propósitos para este blog. En primer lugar, quiero revisar la música que he escuchado desde los diecisiete años, desde 1986 hasta ahora. En segundo lugar, quiero practicar la escritura de textos cortos: creo que, como con el ejercicio físico, la práctica es la mejor manera de mejorar la escritura. Por último, quiero tener soltura con las tecnologías en torno a la publicación de este sitio.
+
+A diferencia de cuando empecé a escuchar música, hoy en día hay muchas maneras de obtener datos sobre un disco o una canción, así que lo que habrá aquí serán mis impresiones actuales sobre cada obra musical. Por tanto, para bien y para mal estos textos no están generados con LLMs. El blog está en español porque el lector tendrá medios para traducirlo al idioma de su elección. Finalmente, como la mayoría de música que escucho tiene el LP como formato preferente haré reviews de CDs enteros, más que de canciones concretas.
+
+

@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "collections"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/jmsallan
+      - icon: twitter
+        href: https://twitter.com/jmsallan
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: source
+
