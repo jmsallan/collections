@@ -1,5 +1,5 @@
 ---
-title: "Gone to Earth"
+title: "Octoberon"
 author: "Jose M Sallan"
 date: "2026-11-06"
 categories: [1976, Barclay James Harvest]
