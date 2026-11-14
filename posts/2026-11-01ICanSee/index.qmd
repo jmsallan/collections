@@ -1,5 +1,5 @@
 ---
-title: "Nude"
+title: "I Can See Your House from Here"
 author: "Jose M Sallan"
 date: "2026-11-01"
 categories: [1979, Camel]
